@@ -1,7 +1,6 @@
 #include <bits/stdc++.h> 
 using namespace std; 
 
-// DSU Class include parent and rank object
 class DSU { 
 	int* parent; 
 	int* rank; 
